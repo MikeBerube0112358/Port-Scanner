@@ -1,4 +1,4 @@
-''' Only run port scanner on consenting websites. This script is for research purposes only. '''
+''' Only run port scanner on consenting websites. This script is for educational purposes only. '''
 import argparse
 import socket
 
